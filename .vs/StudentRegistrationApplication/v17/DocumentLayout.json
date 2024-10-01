@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|g:\\tamayo bscs2a\\repos\\studentregistrationapplication\\studentregistrationapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|solutionrelative:studentregistrationapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|g:\\tamayo bscs2a\\repos\\studentregistrationapplication\\studentregistrationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|solutionrelative:studentregistrationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|g:\\tamayo bscs2a\\repos\\studentregistrationapplication\\studentregistrationapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|solutionrelative:studentregistrationapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|g:\\tamayo bscs2a\\repos\\studentregistrationapplication\\studentregistrationapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A3FA2-7E00-4D63-9051-758481B5E611}|StudentRegistrationApplication\\StudentRegistrationApplication.csproj|solutionrelative:studentregistrationapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApplication\\Form1.cs",
+              "ToolTip": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentRegistrationApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:28:01.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApplication\\Program.cs",
+              "ToolTip": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Program.cs",
+              "RelativeToolTip": "StudentRegistrationApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:53:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApplication\\Form1.cs",
+              "ToolTip": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.cs",
+              "RelativeToolTip": "StudentRegistrationApplication\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:37:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApplication\\Form1.Designer.cs",
+              "ToolTip": "G:\\TAMAYO BSCS2A\\repos\\StudentRegistrationApplication\\StudentRegistrationApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "StudentRegistrationApplication\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:01:13.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

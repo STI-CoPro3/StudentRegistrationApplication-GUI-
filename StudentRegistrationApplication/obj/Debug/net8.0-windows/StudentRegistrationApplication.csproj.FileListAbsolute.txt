@@ -1,0 +1,17 @@
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.exe
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.deps.json
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.runtimeconfig.json
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.dll
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.Form1.resources
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.GenerateResource.cache
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfoInputs.cache
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfo.cs
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.dll
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\refint\StudentRegistrationApplication.dll
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.genruntimeconfig.cache
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\ref\StudentRegistrationApplication.dll
+G:\TAMAYO BSCS2A\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.Properties.Resources.resources
